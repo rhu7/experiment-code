@@ -1,0 +1,12 @@
+Val Accuracy after 5 epochs = 78.90995788574219%
+Val Accuracy after 10 epochs = 81.75355529785156%
+Val Accuracy after 15 epochs = 84.59716033935547%
+Val Accuracy after 20 epochs = 83.6492919921875%
+Val Accuracy after 25 epochs = 89.09952545166016%
+Val Accuracy after 30 epochs = 89.09952545166016%
+Val Accuracy after 35 epochs = 87.20379638671875%
+Val Accuracy after 40 epochs = 88.62559509277344%
+Val Accuracy after 45 epochs = 88.15166473388672%
+Val Accuracy after 50 epochs = 88.38862609863281%
+Val Accuracy after 55 epochs = 88.62559509277344%
+Val Accuracy after 60 epochs = 89.5734634399414%

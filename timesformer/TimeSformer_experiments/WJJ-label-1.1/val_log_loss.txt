@@ -1,0 +1,12 @@
+Val Loss after 5 epochs = 0.5756427049636841
+Val Loss after 10 epochs = 0.6411793231964111
+Val Loss after 15 epochs = 0.5208980441093445
+Val Loss after 20 epochs = 0.6217237710952759
+Val Loss after 25 epochs = 0.4054145812988281
+Val Loss after 30 epochs = 0.4142739772796631
+Val Loss after 35 epochs = 0.5399135947227478
+Val Loss after 40 epochs = 0.5353718996047974
+Val Loss after 45 epochs = 0.5215895175933838
+Val Loss after 50 epochs = 0.5170794129371643
+Val Loss after 55 epochs = 0.5178122520446777
+Val Loss after 60 epochs = 0.5182945728302002
